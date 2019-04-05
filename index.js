@@ -32,3 +32,7 @@ function preserveDecimal(n) {
   return parseFloat(n, 10.80)
 }
 
+//preserveDecimal returns NaN 
+function preserveDecimal(n){
+ return parseFloat("n",10)
+ }
