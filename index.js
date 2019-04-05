@@ -34,5 +34,5 @@ function preserveDecimal(n) {
 
 //preserveDecimal returns NaN 
 function preserveDecimal(n){
- return parseInt("n","myth")
+ return parseFloat("nonsense","myth")
  }
