@@ -33,6 +33,6 @@ function preserveDecimal(n) {
 }
 
 //preserveDecimal returns NaN 
-function preserveDecimal (n){
- return parseFloat("nonsense","myth")
+function preserveDecimal(n){
+ return parseFloat("nonsense", 10)
  }
