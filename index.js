@@ -34,5 +34,5 @@ function preserveDecimal(n) {
 
 //preserveDecimal returns NaN 
 function preserveDecimal(n){
- return parseFloat("j","10")
+ return parseFloat("j","m")
  }
